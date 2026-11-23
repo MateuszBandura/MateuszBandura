@@ -1,5 +1,4 @@
 <img width="348" height="256" alt="shock" src="https://github.com/user-attachments/assets/e3c69c6b-4ce5-42ee-8abb-1b929c32498b" />
-## Hi there
 
 <!--
 **MateuszBandura/MateuszBandura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
